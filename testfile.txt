@@ -1,6 +1,6 @@
 Hello,
 
-This is a test file. This is the master edit.
+This is a test file.
 
 Thanks,
 Mousam Rai
