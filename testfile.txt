@@ -1,6 +1,6 @@
 Hello,
 
-This is a test file. This is the master edit. What am I doing??
+This is a test file. This is the master edit.
 
 Thanks,
 Mousam Rai
